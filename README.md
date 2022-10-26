@@ -9,7 +9,7 @@ Work with a partner to implement the following user story:
 ## Assets
 The following image demonstrates the web application's default appearance and functionality:
 
-![The text "Show Resources" appears below an article titled "Building Responsive Layouts".](./assets/images/images/01-resources-closed.png)
+![The text "Show Resources" appears below an article titled "Building Responsive Layouts".](./assets/images/01-resources-closed.png)
 
 The following image demonstrates the web application's appearance and functionality when the cursor is over the "Show Resources" text:
 ![Three links to the MDN Web Docs appear under the text "Show Resources".](./assets/images/02-resources-open.png)
